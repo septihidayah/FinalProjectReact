@@ -1,7 +1,7 @@
 # FinalProjectReact
 
-#Kelompok 1:
+Kelompok 1:
 
-#Rucidi Kelikualiq
-#Septi Hidayah
-#Elsa Febrianti
+1. Rucidi Kelikualiq
+2. Septi Hidayah
+3. Elsa Febrianti
