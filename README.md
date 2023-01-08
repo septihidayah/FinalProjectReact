@@ -7,7 +7,8 @@ Kelompok 1:
 3. Elsa Febrianti
 
 Fitur yang ditambahkan : Viewer
-Fungsi : Fitur Viewer digumakan untuk mengetahui jumlah orang yang membaca artikel pada sebuah blok
+Fungsi : Fitur Viewer digunakan untuk mengetahui jumlah orang yang membaca artikel pada sebuah blok
 
 Proses Pembuatan Fitur :
+
 1. 
